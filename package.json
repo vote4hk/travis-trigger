@@ -1,0 +1,14 @@
+{
+  "name": "travis-trigger",
+  "version": "1.0.0",
+  "description": "A cronjob that trigger travis build",
+  "main": "index.js",
+  "repository": "git@github.com:vote4hk/travis-trigger.git",
+  "author": "Nandi Wong <nandi0315@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
